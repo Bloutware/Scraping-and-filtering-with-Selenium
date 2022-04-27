@@ -1,4 +1,4 @@
-# Scraping-and-filtering-with-Selenium
+# Scraping and filtering with Selenium
 My dental plan website didn't have a city region filter, so I made my own filter.
 
 https://selenium-python.readthedocs.io/installation.html
