@@ -7,7 +7,7 @@ https://selenium-python.readthedocs.io/installation.html
 > 
 > Use pip to install the selenium package. Python 3 has pip available in the standard library. Using pip, you can install selenium like this:
 > 
-> pip install selenium
+> _pip install selenium_
 
 _Setted with Chrome WebDriver API
 https://chromedriver.chromium.org/getting-started_
